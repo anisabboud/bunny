@@ -1,0 +1,1 @@
+The code is highly based on the example found in http://www.microsoft.com/en-us/kinectforwindowsdev/start.aspx - "5.Skeletal Tracking", with the addition of sending the relevant data to the Arduino through writing to the serial port.
